@@ -75,8 +75,13 @@
     alt="JDiegoG12's Top Languages as a Pie Chart" 
   />
 </div>
+<br>
 
+## 🐍 My GitHub Snake
 
+<div align="center">
+  <img src="https://github.com/JDiegoG12/JDiegoG12/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
 <br>
 
 ## 🤝 Connect with Me
@@ -93,8 +98,9 @@
   </a>
 </p>
 
-## 🐍 My GitHub Snake
+<br>
+<hr>
+<p align="center">
+  <i>Building the future, one line of code at a time.</i>
+</p>
 
-<div align="center">
-  <img src="https://github.com/JDiegoG12/JDiegoG12/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</div>
