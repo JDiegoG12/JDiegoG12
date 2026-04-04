@@ -62,21 +62,6 @@
 
 <br>
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JDiegoG12&show_icons=true&locale=en&theme=tokyonight&hide=issues,stars&include_all_commits=true" 
-    alt="JDiegoG12's GitHub Stats with all commits" 
-  />
-  <br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDiegoG12&layout=pie&locale=en&theme=tokyonight" 
-    alt="JDiegoG12's Top Languages as a Pie Chart" 
-  />
-</div>
-<br>
-
 ## 🐍 My GitHub Snake
 
 <div align="center">
