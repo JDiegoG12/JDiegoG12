@@ -11,8 +11,8 @@
 </p>
 
 - 🔭 I’m currently focused on **university projects and coursework**.
-- 🌱 I’m currently learning **Atomic Design with Angular**.
-- 💬 Ask me about **Java, Go, React, and design patterns**.
+- 🌱 I’m currently learning **Prompt engineering and LLMs**.
+- 💬 Ask me about **UX/UI and Front design**.
 - 📫 How to reach me: **juandiego12345512@gmail.com**.
 - 😄 Fun fact: **I love to cook**.
 
@@ -101,7 +101,7 @@ E-commerce de joyería personalizada con catálogo de productos y personalizador
 
 </td>
 <td width="45%">
-<img src="KOB.png" alt="Joyería KOB preview" width="100%"/>
+<img src=".github/KOB.png" alt="Joyería KOB preview" width="100%"/>
 </td>
 </tr>
 </table>
@@ -124,7 +124,7 @@ Plataforma de reservas para una barbería premium, con experiencia de agendamien
 
 </td>
 <td width="45%">
-<img src="BARBERIA.png" alt="BarberIA preview" width="100%"/>
+<img src=".github/BARBERIA.png" alt="BarberIA preview" width="100%"/>
 </td>
 </tr>
 </table>
@@ -149,7 +149,7 @@ Asistente conversacional de acompañamiento emocional para estudiantes universit
 
 </td>
 <td width="45%">
-<img src="AIMO.png" alt="AIMO preview" width="100%"/>
+<img src=".github/AIMO.png" alt="AIMO preview" width="100%"/>
 </td>
 </tr>
 </table>
